@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+ <div>
+  <a href="https://github.com/mateusgoncalves2008
+">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusgoncalves2008
+&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgoncalves2008
+&layout=compact&langs_count=16&theme=dark"/>
+</div>
 <!--
 **mateusgoncalves2008/mateusgoncalves2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
