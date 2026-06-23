@@ -14,7 +14,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusgoncalves2008&show_icons=false&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgoncalves2008&layout=compact&langs_count=16&theme=dark"/>
 </div>
-   
+
+<div align="center">
+ <img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
+</div>
+
    ---
    ## 🛠 Tech Stack
  ### 💻 Frontend and Styling
