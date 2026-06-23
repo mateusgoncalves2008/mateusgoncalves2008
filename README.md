@@ -17,36 +17,33 @@
    
    ---
    ## 🛠 Tech Stack
- ### 💻 Frontend e Estilização
-<div style="display: inline_block">
-  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mateus-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+ ### 💻 Frontend and Styling
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss" />
+  </a>
 </div>
 
 <br>
 
-### Linguagens
+### Languages
   <div>
-     <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <img align="center" alt="Mateus-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,c" />
+  </a>
   </div>
 <br>
 
-  ### 🔧Espaço de trabalho e ferramentas
+  ### 🔧Work space and tools
 <div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,obsidian,vscode" />
-    <img align="top" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+    <img src="https://skillicons.dev/icons?i=github,obsidian,vscode,trello" />
 
   </a>
 </div>
 
 ---
 
- ## 🌐Redes Socias
+ ## 🌐Social Media
 <div> 
  <br>
  <a href="https://x.com/MateusGona40219" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
