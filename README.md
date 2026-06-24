@@ -1,22 +1,19 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fe0032&reversal=false&textBg=false" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=bd0000&reversal=false&textBg=false" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Goncalves+dos+Santos;I+study+Frond-End;Be+Welcome!+:%29)](https://git.io/typing-svg) 
  
  <div align="center">
   <a href="https://github.com/mateusgoncalves2008">
-   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mateusgoncalves2008&theme=vue-dark&stroke=ffffff&background=000000&ring=fe0032&fire=fe0032&currStreakNum=ffffff&currStreakLabel=fe0032&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mateusgoncalves2008&theme=vue-dark&stroke=ffffff&background=000000&ring=bd0000&fire=bd0000&currStreakNum=ffffff&currStreakLabel=bd0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
   </a>
+  
   <br />
+  
 </div>
 
- <div align="center">
-  <a href="https://github.com/mateusgoncalves2008">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusgoncalves2008&show_icons=false&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgoncalves2008&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-<div align="center">
- <img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusAlvarez&show_icons=false&count_private=true&hide_border=true&title_color=bd0000&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=bd0000&text_color=fff&bg_color=0d1117" />
 </div>
 
    ---
@@ -59,4 +56,4 @@
 <br>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=fe0032&reversal=false&textBg=false&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=bd0000&reversal=false&textBg=false&section=footer" />
