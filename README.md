@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fe0032&reversal=false&textBg=false" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&multiline=true&width=647&height=90&lines=Hello+Word!!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Goncalves+dos+Santos;I+study+Frond-End;Be+Welcome!+:%29)](https://git.io/typing-svg) 
  
  <div align="center">
   <a href="https://github.com/mateusgoncalves2008">
@@ -40,7 +40,8 @@
   ### 🔧Work space and tools
 <div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,obsidian,vscode,trello" />
+    <img src="https://skillicons.dev/icons?i=github,obsidian,vscode" />
+    <img src="https://cdn.simpleicons.org/trello/0079BF" width="48" height="46" />
 
   </a>
 </div>
