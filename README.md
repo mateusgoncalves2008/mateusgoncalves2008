@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
- 
+  <img src="https://raw.githubusercontent.com/mateusgoncalves2008/mateusgoncalves2008/output/snake.svg" alt="Snake animation" />
 </div>
 
    ---
