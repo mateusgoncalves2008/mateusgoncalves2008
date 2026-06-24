@@ -43,8 +43,8 @@
   ### 🔧Work space and tools
 <div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,obsidian,vscode" />
-    <img src="https://cdn.simpleicons.org/trello/0079BF" width="48" height="46" />
+    <img src="https://skillicons.dev/icons?i=github,obsidian,vscode,git" />
+    <img src="https://cdn.simpleicons.org/trello/0079BF" width="48" height="47" />
 
   </a>
 </div>
