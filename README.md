@@ -27,6 +27,7 @@
  ### 💻 Frontend and Styling
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss" />
+   <img src="https://camo.githubusercontent.com/f528509fa00e18da4e98e877d5fe1ee9b8bf5ed8867bc415d79ef310a838684a/68747470733a2f2f737775702e6a732e6f72672f6173736574732f696d616765732f737775702d6c6f676f2e737667" alt="Snake animation" width="48" height="47"/>
   </a>
 </div>
 
