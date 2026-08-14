@@ -2,14 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Goncalves+dos+Santos;I+study+Frond-End;Be+Welcome!+:%29)](https://git.io/typing-svg) 
  
- <div align="center">
-  <a href="https://github.com/mateusgoncalves2008">
-   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mateusgoncalves2008&theme=vue-dark&stroke=ffffff&background=000000&ring=bd0000&fire=bd0000&currStreakNum=ffffff&currStreakLabel=bd0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-  </a>
-  
-  <br />
-  
-</div>
+ 
 
 
 ---
