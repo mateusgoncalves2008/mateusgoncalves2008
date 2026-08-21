@@ -15,7 +15,7 @@
    ## 🛠 Tech Stack
  ### 💻 Frontend and Styling
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,figma" />
 <img src="https://swup.js.org/assets/images/swup-logo.svg" alt="Swup Logo" width="48" height="47" />
   
   </a>
@@ -34,7 +34,7 @@
   ### 🔧Work space and tools
 <div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,obsidian,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=github,obsidian,vscode,git,figma" />
     <img src="https://cdn.simpleicons.org/trello/0079BF" width="48" height="47" />
 
   </a>
